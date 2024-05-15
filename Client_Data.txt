@@ -1,0 +1,29 @@
+
+
+
+Name:abdullah Bill-Amount:1266240.0 Profit:126624.0
+
+Name:SAIM Bill-Amount:726780.0 Profit:72678.0
+
+Name:rafay Bill-Amount:115775.0 Profit:11577.5
+
+Name:abdullah Bill-Amount:2830318.0 Profit:283031.8
+
+Name:saim Bill-Amount:933750.0 Profit:93375.0
+
+Name:saim Bill-Amount:19800.0 Profit:1980.0
+
+Name:Tahir Bill-Amount:3513000.0 Profit:351300.0
+
+Name:aaa Bill-Amount:31100.0 Profit:3110.0
+
+Name:Boss Ibrahim Bill-Amount:480000.0 Profit:48000.0
+
+Name:saim Bill-Amount:29250.0 Profit:2925.0
+
+
+Name:SAIM Bill-Amount:34000.0 Profit:3400.0
+
+
+Name:saim Bill-Amount:68400.0 Profit:6840.0
+
